@@ -1,0 +1,120 @@
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Clarinets a2"
+//! id=8df2bc84-ed93-4869-9109-9fe203078cf2
+Bank * * Clarinets a2
+//! c=legato i=legato o=note:24,1 c=#ff0000
+22 legato (low latency)
+//! c=legato i=legato-slow o=note:24,65 c=#ff8080
+21 legato (expressive)
+//! spacer=1
+//! c=long i=trill o=note:27 c=#ff8040
+70 trills
+//! spacer=1
+//! c=short i=sfz o=note:29,97 c=#004000
+54 sfz
+//! c=short i=staccato o=note:29,65 c=#008000
+44 staccato
+//! c=short i=staccatissimo-stopped o=note:29,33 c=#00ff00
+41 staccatissimo
+//! c=short i=spiccato o=note:29,1 c=#80ff00
+42 repetitions
+//! c=short i=tremolo-measured-eighth o=note:26 c=#80ff80
+14 measured repetitions
+//! spacer=1
+//! c=legato i=marcato-half o=note:30,65 c=#00ff40
+33 marcato (rep. overlay)
+//! c=legato i=marcato-quarter o=note:0,1 c=#00ff80
+9 marcato (plain)
+//! spacer=2
+//! c=fx i=legato o=note:32,65 c=#ffffff
+20 legato on
+//! c=fx i=legato o=note:32,1 c=#eeeeee
+19 legato off
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Flutes a2"
+//! id=dec67efe-1a70-4876-82e7-e914ca0789a2
+Bank * * Flutes a2
+//! c=legato i=legato o=note:24,1 c=#ff0000
+22 legato (low latency)
+//! c=legato i=legato-slow o=note:24,65 c=#ff8080
+21 legato (expressive)
+//! spacer=1
+//! c=long i=tremolo o=note:28 c=#ff8000
+11 flutter tongue
+//! c=long i=trill o=note:27 c=#ff8040
+70 trills
+//! spacer=1
+//! c=short i=sfz o=note:29,97 c=#004000
+54 sfz
+//! c=short i=staccato o=note:29,65 c=#008000
+44 staccato
+//! c=short i=staccatissimo-stopped o=note:29,33 c=#00ff00
+41 staccatissimo
+//! c=short i=spiccato o=note:29,1 c=#80ff00
+42 repetitions
+//! c=short i=tremolo-measured-eighth o=note:26 c=#80ff80
+14 measured repetitions
+//! spacer=1
+//! c=legato i=marcato-half o=note:30,65 c=#00ff40
+33 marcato (rep. overlay)
+//! c=legato i=marcato-quarter o=note:0,1 c=#00ff80
+9 marcato (plain)
+//! spacer=2
+//! c=fx i=legato o=note:32,65 c=#ffffff
+20 legato on
+//! c=fx i=legato o=note:32,1 c=#eeeeee
+19 legato off
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Oboes a2"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=005d74fa-1691-4619-a623-289350d5c97e
+Bank * * Oboes a2
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Bassoons a2"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=df3e6057-8b40-4f93-9ea4-672dcf6b9e4e
+Bank * * Bassoons a2
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Clarinet"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=872fa979-d640-4fcc-b24a-b5b0cb6111e0
+Bank * * Solo Clarinet
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Flute"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Flutes a2"
+//! id=d15f268b-5597-40e0-b081-56d283254168
+Bank * * Solo Flute
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Oboe"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=5a6c34bd-5308-4f3e-ad81-6cc900bdd09d
+Bank * * Solo Oboe
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Bassoon"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=c109d98e-4f94-4dca-b572-2f427673360f
+Bank * * Solo Bassoon
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Bass Clarinet"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=8db6dc12-fd29-4589-bb82-43d7694a929a
+Bank * * Solo Bass Clarinet
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Piccolo Flute"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Flutes a2"
+//! id=605a7a02-fef0-4627-8e33-3cb26c33a85c
+Bank * * Solo Piccolo Flute
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Alto Flute"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Flutes a2"
+//! id=b01bfda8-bf20-4c98-b3d8-208e92da20d3
+Bank * * Solo Alto Flute
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Cor Anglais"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=be48da8e-47e2-47af-83da-3ef7eec96e82
+Bank * * Solo Cor Anglais
+
+//! g="Alex Wallbank/Cinematic Studio Series/Woodwinds" n="Solo Contrabassoon"
+//! clone="Alex Wallbank/Cinematic Studio Series/Woodwinds/Clarinets a2"
+//! id=e6068d67-9df8-4852-a6ec-5031c98bf922
+Bank * * Solo Contrabassoon

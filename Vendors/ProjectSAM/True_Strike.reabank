@@ -1,0 +1,251 @@
+//! g="ProjectSAM/True Strike/Drums" n="Timpani"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! id=b269c1de-1c57-4062-8a7a-bb9ae641a70a
+Bank * * Timpani
+//! c=long i=note-whole o=note:0/cc:64,0 c=#ff0000
+1 open hit
+//! c=long i=stopped o=note:24/cc:64,64 c=#ff8080
+2 damped hit
+//! spacer=1
+//! c=fx i=tremolo o=note:25 c=#ff8000
+3 tremolo
+//! c=fx i=tremolo-measured-eighth o=note:26 c=#008000
+4 rolls
+//! c=fx i=fx o=note:27 c=#80ff00
+5 fx
+
+//! g="ProjectSAM/True Strike/Drums" n="Snare"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! id=ad88bd5b-0e1e-4dfc-ac53-add3519d5c96
+Bank * * Snare
+//! c=long i=note-whole o=note:24 c=#ff0000
+1 snares on
+//! c=long i=stopped o=note:25 c=#ff8080
+2 snares off
+
+//! g="ProjectSAM/True Strike/Drums" n="Snare Ensemble"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! clone="ProjectSAM/True Strike/Drums/Snare"
+//! id=82ad79c5-31c8-44a8-9750-d4c307e686be
+Bank * * Snare Ensemble
+
+//! g="ProjectSAM/True Strike/Drums" n="Gran Cassa"
+//! id=3ac4caee-9c01-4f33-b26e-e8d0875dc855
+Bank * * Gran Cassa
+
+//! g="ProjectSAM/True Strike/Drums" n="Military Drum"
+//! id=b4870ebd-1537-4454-af96-92986b5eed6b
+Bank * * Military Drum
+
+//! g="ProjectSAM/True Strike/Drums" n="Field Drum"
+//! id=2dc8775c-6095-4129-9c01-e2ea8ae6fe1c
+Bank * * Field Drum
+
+//! g="ProjectSAM/True Strike/Drums" n="Tomtoms"
+//! id=a1fe0cd6-825c-4c7e-851b-87aeeafed9b0
+Bank * * Tomtoms
+
+//! g="ProjectSAM/True Strike/Drums" n="Rototoms"
+//! id=9e85bf7e-28d9-40f0-a65b-590bb776fc34
+Bank * * Rototoms
+
+//! g="ProjectSAM/True Strike/Drums" n="Timbales"
+//! id=a1026439-42b3-42f9-99cd-1db2f3d88adf
+Bank * * Timbales
+
+//! g="ProjectSAM/True Strike/Drums" n="Bongos"
+//! id=dda14bc8-a682-4809-ad46-f938749def46
+Bank * * Bongos
+
+//! g="ProjectSAM/True Strike/Drums" n="Congas"
+//! id=f6aabf2b-98f9-4839-a9e8-897055e434c8
+Bank * * Congas
+
+//! g="ProjectSAM/True Strike/Drums" n="Tutti Hits"
+//! id=aea76eb7-e6c0-45fd-9f86-d01e710351f2
+Bank * * Tutti Hits
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="Piatti 1"
+//! id=9e82d5da-1626-4de7-9b27-e9593c40c067
+Bank * * Piatti 1
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="Piatti 2"
+//! id=f15c4c75-74f4-448e-9ec6-d6f8b6b51232
+Bank * * Piatti 2
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="Sus. Cymbal 1"
+//! id=37b405e9-e786-4916-aa1b-66fe8d24f8af
+Bank * * Sus. Cymbal 1
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="Sus. Cymbal 2"
+//! id=09d0f2b5-8f90-4e4e-b0e7-1b9a5f9daeab
+Bank * * Sus. Cymbal 2
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="China Cymbal"
+//! id=0edf7381-afa5-4b8e-b27c-1208748cf50c
+Bank * * China Cymbal
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="Tam-tam 1"
+//! id=74a9acd0-a602-4c98-9572-889b78683f96
+Bank * * Tam-tam 1
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="Tam-tam 2"
+//! id=13c2be8d-cba3-494a-b4b3-51ef1fc0f3d0
+Bank * * Tam-tam 2
+
+//! g="ProjectSAM/True Strike/Cymbals and Gongs" n="Thai Gongs"
+//! id=5216e1c0-602f-48a9-a9d1-464d3dba6cf9
+Bank * * Thai Gongs
+
+//! g="ProjectSAM/True Strike/Idiophones" n="Tubular Bells"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! id=7a65fa72-32cd-4aa4-b23c-f26684d90735
+Bank * * Tubular Bells
+//! c=long i=note-whole o=note:24/cc:64,0 c=#ff0000
+1 open hammers
+//! c=short i=stopped o=note:24/cc:64,64 c=#ff8080
+2 damped hammers
+//! spacer=1
+//! c=long i=accented-half o=note:25 c=#ff8000
+3 sticks
+
+//! g="ProjectSAM/True Strike/Idiophones" n="Glockenspiel"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! id=7808b2c2-5301-4b3f-ba74-1738ef7cf171
+Bank * * Glockenspiel
+//! c=long i=note-whole o=note:24 c=#ff0000
+1 hit
+//! c=fx i=legato-gliss o=note:25 c=#ff8000
+2 glissando
+
+//! g="ProjectSAM/True Strike/Idiophones" n="Celesta"
+//! id=c814274e-749c-4d1d-81d6-49102c97e25d
+Bank * * Celesta
+
+//! g="ProjectSAM/True Strike/Idiophones" n="Crotales"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! id=2c673aec-5e3c-48be-8d9e-d728f4d8ef7c
+Bank * * Crotales
+//! c=long i=note-whole o=note:0/cc:64,0 c=#ff0000
+1 open hit
+//! c=short i=stopped o=note:0/cc:64,64 c=#ff8080
+2 damped hit
+
+//! g="ProjectSAM/True Strike/Idiophones" n="Xylophone"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! clone="ProjectSAM/True Strike/Idiophones/Glockenspiel"
+//! id=5496266a-15b5-4de4-ac84-a34c675a38bf
+Bank * * Xylophone
+
+//! g="ProjectSAM/True Strike/Idiophones" n="Vibraphone"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! clone="ProjectSAM/True Strike/Idiophones/Crotales"
+//! id=0b0a71c0-3f7a-46e5-8e07-efc92178f5b5
+Bank * * Vibraphone
+
+//! g="ProjectSAM/True Strike/Idiophones" n="Marimba"
+//! m="Make sure SWITCHING is set to KEYSWITCH!"
+//! id=4a2f0690-229c-4c34-9e79-5ada0e8e93b2
+Bank * * Marimba
+//! c=long i=note-whole o=note:24 c=#ff0000
+1 standard mallets
+//! c=long i=accented-half o=note:25 c=#ff8000
+2 bass mallets
+//! c=long i=alt-x o=note:26 c=#00ff00
+3 thumbs
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Shaker"
+//! id=86a208a2-e650-4867-9817-925dda7f32ca
+Bank * * Shaker
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Claves"
+//! id=a1ab5d6b-1135-401b-82f6-caed58a29bf5
+Bank * * Claves
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Woodblocks"
+//! id=11093e72-a41d-4aff-85fd-336d75172077
+Bank * * Woodblocks
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Temple Blocks"
+//! id=34d53355-3b46-4232-aacc-09567509d35b
+Bank * * Temple Blocks
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Whip"
+//! id=bf5014af-1def-4061-84e6-bf2e36366fc0
+Bank * * Whip
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Castanets"
+//! id=3bbb524e-d804-49d7-9cab-ce43872b5f8d
+Bank * * Castanets
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Rattle"
+//! id=914b78fc-2483-4ac6-83d0-118ad187e282
+Bank * * Rattle
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Guiro"
+//! id=62d7dd98-fb8f-40c1-b054-faac2f322ed7
+Bank * * Guiro
+
+//! g="ProjectSAM/True Strike/Misc. Woods" n="Vibraslap"
+//! id=7278edec-8a8d-4862-a094-89240769ee75
+Bank * * Vibraslap
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Bell Tree"
+//! id=cb5859e1-710f-4a78-9737-732ea73337bc
+Bank * * Bell Tree
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Sleigh Bells"
+//! id=fb26d297-628a-493d-b4bf-847de2f677b3
+Bank * * Sleigh Bells
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Wind Chimes"
+//! id=cdf20ffd-835b-4c54-bd7e-4e45d08d2737
+Bank * * Wind Chimes
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Cowbells"
+//! id=87996515-5617-4d41-b4aa-eae8fc24f6bd
+Bank * * Cowbells
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Triangle"
+//! id=d3b9c178-c98d-443d-87e8-efc622d97d2e
+Bank * * Triangle
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Tambourine"
+//! id=e85e1129-9401-4e4b-9f9d-c169143dde88
+Bank * * Tambourine
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Beatring"
+//! id=11a63632-707a-4170-bfaa-aa6c9e77d513
+Bank * * Beatring
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Thunderplate"
+//! id=f7e0ff5d-b6f1-4e4f-b85b-3d50d12bb575
+Bank * * Thunderplate
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Brakes"
+//! id=263e46a2-2d79-4f8c-a93d-73f18320c83b
+Bank * * Brakes
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Pans"
+//! id=61ea01b1-b19e-4096-b396-1d7647597781
+Bank * * Pans
+
+//! g="ProjectSAM/True Strike/Misc. Metals" n="Trash"
+//! id=bc292dfe-96ca-48df-a367-8c4ebf453715
+Bank * * Trash
+
+//! g="ProjectSAM/True Strike/Other" n="Siren"
+//! id=ca059a44-0611-4912-9bb3-9168c89b2d8c
+Bank * * Siren
+
+//! g="ProjectSAM/True Strike/Other" n="Claps"
+//! id=653c8cfc-64dc-4f80-b9d3-de008ef45ce7
+Bank * * Claps
+
+//! g="ProjectSAM/True Strike/Other" n="Snaps"
+//! id=8fb14987-ff56-4084-a380-2bc87f1145f0
+Bank * * Snaps
+
+//! g="ProjectSAM/True Strike/Other" n="Body Percussion"
+//! id=b899d03d-0413-4f10-9c40-34dc46f2d7b8
+Bank * * Body Percussion

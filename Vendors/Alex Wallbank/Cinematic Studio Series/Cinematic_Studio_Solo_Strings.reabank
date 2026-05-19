@@ -1,0 +1,64 @@
+//! g="Alex Wallbank/Cinematic Studio Series/Solo Strings" n="Solo Violin 1"
+//! id=2bce9f45-ee0a-465a-8add-b5132ec4ca3d
+Bank * * Solo Violin 1
+//! c=legato i=legato o=note:24,1 c=#ff0000
+22 legato (low latency)
+//! c=legato i=legato-slow o=note:24,65 c=#ff8080
+21 legato (expressive)
+//! spacer=1
+//! c=long i=tremolo o=note:25 c=#ff8000
+30
+//! c=long i=tremolo-measured-eighth o=note:26 c=#ff8040
+11 measured tremolo
+//! spacer=1
+//! c=long i=trill o=note:27 c=#ffff00
+70 trills
+//! spacer=1
+//! c=long i=harmonics o=note:0 c=#ffff80
+10 harmonics
+//! spacer=1
+//! c=short i=sfz o=note:29,97 c=#008000
+54 sfz
+//! c=short i=staccato o=note:29,65 c=#00ff00
+44 staccato
+//! c=short i=staccatissimo-stopped o=note:29,33 c=#80ff00
+41 staccatissimo
+//! c=short i=spiccato o=note:29,1 c=#80ff80
+42 spiccato
+//! spacer=1
+//! c=short i=pizz o=note:31,1 c=#008080
+56 pizzicato (standard)
+//! c=short i=pizz-bartok o=note:31,42 c=#00ff40
+57 pizzicato (bartok snaps)
+//! c=short i=col-legno o=note:31,85 c=#00ff80
+58 col legno
+//! spacer=1
+//! c=legato i=marcato-half o=note:30,65 c=#00ffff
+33 marcato (spic. overlay)
+//! c=legato i=marcato-quarter o=note:30,1 c=#80ffff
+9 marcato (plain)
+//! spacer=2
+//! c=fx i=con-sord o=note:14,65 c=#ffffff
+7 con sordino on
+//! c=fx i=con-sord o=note:14,1 c=#eeeeee
+2 con sordino off
+//! spacer=1
+//! c=fx i=legato o=note:17,65 c=#ffffff
+20 legato on
+//! c=fx i=legato o=note:17,1 c=#eeeeee
+19 legato off
+
+//! g="Alex Wallbank/Cinematic Studio Series/Solo Strings" n="Solo Violin 2"
+//! clone="Alex Wallbank/Cinematic Studio Series/Solo Strings/Solo Violin 1"
+//! id=151e9f52-5177-40de-a13a-060ddb4f270d
+Bank * * Solo Violin 2
+
+//! g="Alex Wallbank/Cinematic Studio Series/Solo Strings" n="Solo Viola"
+//! clone="Alex Wallbank/Cinematic Studio Series/Solo Strings/Solo Violin 1"
+//! id=428b4922-d14a-413f-a20f-ca80c7cc2223
+Bank * * Solo Viola
+
+//! g="Alex Wallbank/Cinematic Studio Series/Solo Strings" n="Solo Cello"
+//! clone="Alex Wallbank/Cinematic Studio Series/Solo Strings/Solo Violin 1"
+//! id=bc681bee-6f8b-429c-920c-447e1da12b35
+Bank * * Solo Cello

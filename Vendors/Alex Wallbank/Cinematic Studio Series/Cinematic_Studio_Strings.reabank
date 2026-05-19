@@ -1,0 +1,111 @@
+//! g="Alex Wallbank/Cinematic Studio Series/Strings" n="First Violins"
+//! id=fcf7a90f-431f-4e06-bb21-3440bf1503d0
+Bank * * First Violins
+//! c=legato i=legato o=note:24,1 c=#ff8080
+22 legato (low latency)
+//! c=legato i=legato-slow o=note:24,65 c=#ff0000
+21 legato (expressive)
+//! spacer=1
+//! c=long i=tremolo o=note:25 c=#ff8000
+30 tremolo
+//! c=long i=tremolo-measured-eighth o=note:26 c=#ff8040
+11 measured tremolo
+//! spacer=1
+//! c=long i=trill o=note:27 c=#ffff00
+70 trills
+//! spacer=1
+//! c=long i=harmonics o=note:28 c=#ffff80
+10 harmonics
+//! spacer=1
+//! c=short i=sfz o=note:29,97 c=#008000
+54 sfz
+//! c=short i=staccato o=note:29,65 c=#00ff00
+44 staccato
+//! c=short i=staccatissimo-stopped o=note:29,33 c=#80ff00
+41 staccatissimo
+//! c=short i=spiccato o=note:29,1 c=#80ff80
+42 spiccato
+//! spacer=1
+//! c=short i=pizz o=note:31,1 c=#008080
+56 pizzicato (standard)
+//! c=short i=pizz-bartok o=note:31,42 c=#00ff40
+57 pizzicato (bartok snaps)
+//! c=short i=col-legno o=note:31,85 c=#00ff80
+58 col legno
+//! spacer=1
+//! c=legato i=marcato-half o=note:30,65 c=#00ffff
+33 marcato (spic. overlay)
+//! c=legato i=marcato-quarter o=note:30,1 c=#80ffff
+9 marcato (plain)
+//! spacer=2
+//! c=fx i=con-sord o=note:14,65 c=#ffffff
+7 con sordino on
+//! c=fx i=con-sord o=note:14,1 c=#eeeeee
+2 con sordino off
+//! spacer=1
+//! c=fx i=legato o=note:17,65 c=#ffffff
+20 legato on
+//! c=fx i=legato o=note:17,1 c=#eeeeee
+19 legato off
+
+//! g="Alex Wallbank/Cinematic Studio Series/Strings" n="Second Violins"
+//! clone="Alex Wallbank/Cinematic Studio Series/Strings/First Violins"
+//! id=6d109c7e-26a1-4899-9f04-e557fa3f6f07
+Bank * * Second Violins
+
+//! g="Alex Wallbank/Cinematic Studio Series/Strings" n="Violas"
+//! clone="Alex Wallbank/Cinematic Studio Series/Strings/First Violins"
+//! id=4e432f4b-d7c0-4572-b63a-3cb53d5b447f
+Bank * * Violas
+
+//! g="Alex Wallbank/Cinematic Studio Series/Strings" n="Celli"
+//! clone="Alex Wallbank/Cinematic Studio Series/Strings/First Violins"
+//! id=f8dd5f3e-4d3e-4b56-a867-921f90d2718c
+Bank * * Celli
+
+//! g="Alex Wallbank/Cinematic Studio Series/Strings" n="Basses"
+//! id=4cd1fd75-1c6b-4d15-a954-6295c3374389
+Bank * * Basses
+//! c=legato i=legato o=note:24,1 c=#ff8080
+22 legato (low latency)
+//! c=legato i=legato-slow o=note:24,65 c=#ff0000
+21 legato (expressive)
+//! spacer=1
+//! c=long i=tremolo o=note:25 c=#ff8000
+30 tremolo
+//! c=long i=tremolo-measured-eighth o=note:26 c=#ff8040
+11 measured tremolo
+//! spacer=1
+//! c=long i=harmonics o=note:28 c=#ffff80
+10 harmonics
+//! spacer=1
+//! c=short i=sfz o=note:29,97 c=#008000
+54 sfz
+//! c=short i=staccato o=note:29,65 c=#00ff00
+44 staccato
+//! c=short i=staccatissimo-stopped o=note:29,33 c=#80ff00
+41 staccatissimo
+//! c=short i=spiccato o=note:29,1 c=#80ff80
+42 spiccato
+//! spacer=1
+//! c=short i=pizz o=note:31,1 c=#008080
+56 pizzicato (standard)
+//! c=short i=pizz-bartok o=note:31,42 c=#00ff40
+57 pizzicato (bartok snaps)
+//! c=short i=col-legno o=note:31,85 c=#00ff80
+58 col legno
+//! spacer=1
+//! c=legato i=marcato-half o=note:30,65 c=#00ffff
+33 marcato (spic. overlay)
+//! c=legato i=marcato-quarter o=note:30,0 c=#80ffff
+9 marcato (plain)
+//! spacer=2
+//! c=fx i=con-sord o=note:14,65 c=#ffffff
+7 con sordino on
+//! c=fx i=con-sord o=note:14,1 c=#eeeeee
+2 con sordino off
+//! spacer=1
+//! c=fx i=legato o=note:17,65 c=#ffffff
+20 legato on
+//! c=fx i=legato o=note:17,1 c=#eeeeee
+19 legato off

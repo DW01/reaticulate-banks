@@ -1,0 +1,11 @@
+//! g="Fracture Sounds/Blueprint" n="#15 Church Organ"
+//! id=defad102-bca8-43cc-b76e-2e2a9f481b67
+Bank * * #15 Church Organ
+//! c=long i=note-whole o=note:24 c=#008000
+1 mellow
+//! c=long i=note-half o=note:25 c=#00ff00
+2 bright
+//! c=long i=note-quarter o=note:26 c=#80ff00
+8 rich
+//! c=long i=note-eighth o=note:27 c=#80ff80
+9 full

@@ -1,0 +1,17 @@
+//! g="Native Instruments/Kontakt Factory Library/Orchestral/VSL Strings" n="Harp"
+//! id=efbddce2-a1d5-44ff-839f-10b29c17b3a2
+Bank * * Harp
+//! c=long i=note-whole o=note:12 c=#ff0000
+1 plucked
+//! spacer=1
+//! c=long i=stopped o=note:13 c=#00ff00
+6 flageolet (mutes)
+//! c=long i=staccato-stopped o=note:14 c=#80ff00
+26 pres de la table (mutes)
+//! c=long i=staccatissimo-stopped o=note:15 c=#80ff80
+47 damped (mutes)
+//! spacer=1
+//! c=fx i=legato-gliss o=note:16 c=#00ff40
+31 glissando
+//! c=fx i=tremolo o=note:17 c=#00ff80
+11 bisbigliando
