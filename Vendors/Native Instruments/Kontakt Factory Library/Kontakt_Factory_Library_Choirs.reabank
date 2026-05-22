@@ -2,17 +2,17 @@
 //! id=100a0bd2-aa6c-4b86-b486-38014a808d5a
 Bank * * Sopranos
 //! c=long i=note-whole o=note:24
-1 Aah
+1 aah
 //! c=long i=note-whole o=note:26
-2 Eeh
+2 eeh
 //! c=long i=note-whole o=note:28
-5 Iih
+5 iih
 //! c=long i=note-whole o=note:29
-8 Ooh
+8 ooh
 //! c=long i=note-whole o=note:31
-9 Uuh
+9 uuh
 //! c=long i=note-whole o=note:33
-16 Mmm
+16 mmm
 
 //! g="Native Instruments/Kontakt Factory Library/Choirs" n="Altos"
 //! clone="Native Instruments/Kontakt Factory Librarty/Choirs/Sopranos"
