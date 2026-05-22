@@ -8,3 +8,4 @@ You may also notice that I use a lot of bank duplication. This is a matter of pr
 - **Cinematic Studio Series:** These are keyswitch-based banks. Make sure your delay solution (Cinematic Delay Compensator, CSS Delay Helper, VDC, Foresight...) both supports and is set to KEYSWITCH mode.
 - **True Strike:** There's a lot of blank banks here, purely for organisational purposes. Feel free to remove them in your forks.
 - **Kontakt Factory Library:** This one only contains the KFL v1 Vienna harp for now. I might make this into a full library bank set at some point, but that's a loooot of work.
+- **Kontakt Factory Library 2:** The Strezov Sampling vowels are untested. They should work, but due to the dual KS system, the program numbers are a bit odd in places.
