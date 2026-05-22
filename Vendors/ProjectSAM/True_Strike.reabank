@@ -2,7 +2,7 @@
 //! m="Make sure SWITCHING is set to KEYSWITCH!"
 //! id=b269c1de-1c57-4062-8a7a-bb9ae641a70a
 Bank * * Timpani
-//! c=long i=note-whole o=note:0/cc:64,0 c=#ff0000
+//! c=long i=note-whole o=note:24/cc:64,0 c=#ff0000
 1 open hit
 //! c=long i=stopped o=note:24/cc:64,64 c=#ff8080
 2 damped hit
@@ -97,7 +97,7 @@ Bank * * Tam-tam 2
 //! id=5216e1c0-602f-48a9-a9d1-464d3dba6cf9
 Bank * * Thai Gongs
 
-//! g="ProjectSAM/True Strike/Idiophones" n="Tubular Bells"
+//! g="ProjectSAM/True Strike/Ideophones" n="Tubular Bells"
 //! m="Make sure SWITCHING is set to KEYSWITCH!"
 //! id=7a65fa72-32cd-4aa4-b23c-f26684d90735
 Bank * * Tubular Bells
@@ -109,7 +109,7 @@ Bank * * Tubular Bells
 //! c=long i=accented-half o=note:25 c=#ff8000
 3 sticks
 
-//! g="ProjectSAM/True Strike/Idiophones" n="Glockenspiel"
+//! g="ProjectSAM/True Strike/Ideophones" n="Glockenspiel"
 //! m="Make sure SWITCHING is set to KEYSWITCH!"
 //! id=7808b2c2-5301-4b3f-ba74-1738ef7cf171
 Bank * * Glockenspiel
@@ -118,11 +118,11 @@ Bank * * Glockenspiel
 //! c=fx i=legato-gliss o=note:25 c=#ff8000
 2 glissando
 
-//! g="ProjectSAM/True Strike/Idiophones" n="Celesta"
+//! g="ProjectSAM/True Strike/Ideophones" n="Celesta"
 //! id=c814274e-749c-4d1d-81d6-49102c97e25d
 Bank * * Celesta
 
-//! g="ProjectSAM/True Strike/Idiophones" n="Crotales"
+//! g="ProjectSAM/True Strike/Ideophones" n="Crotales"
 //! m="Make sure SWITCHING is set to KEYSWITCH!"
 //! id=2c673aec-5e3c-48be-8d9e-d728f4d8ef7c
 Bank * * Crotales
@@ -131,19 +131,19 @@ Bank * * Crotales
 //! c=short i=stopped o=note:0/cc:64,64 c=#ff8080
 2 damped hit
 
-//! g="ProjectSAM/True Strike/Idiophones" n="Xylophone"
+//! g="ProjectSAM/True Strike/Ideophones" n="Xylophone"
 //! m="Make sure SWITCHING is set to KEYSWITCH!"
 //! clone="ProjectSAM/True Strike/Idiophones/Glockenspiel"
 //! id=5496266a-15b5-4de4-ac84-a34c675a38bf
 Bank * * Xylophone
 
-//! g="ProjectSAM/True Strike/Idiophones" n="Vibraphone"
+//! g="ProjectSAM/True Strike/Ideophones" n="Vibraphone"
 //! m="Make sure SWITCHING is set to KEYSWITCH!"
 //! clone="ProjectSAM/True Strike/Idiophones/Crotales"
 //! id=0b0a71c0-3f7a-46e5-8e07-efc92178f5b5
 Bank * * Vibraphone
 
-//! g="ProjectSAM/True Strike/Idiophones" n="Marimba"
+//! g="ProjectSAM/True Strike/Ideophones" n="Marimba"
 //! m="Make sure SWITCHING is set to KEYSWITCH!"
 //! id=4a2f0690-229c-4c34-9e79-5ada0e8e93b2
 Bank * * Marimba
