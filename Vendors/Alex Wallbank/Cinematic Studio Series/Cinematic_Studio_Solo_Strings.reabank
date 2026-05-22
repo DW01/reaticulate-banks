@@ -14,7 +14,7 @@ Bank * * Solo Violin 1
 //! c=long i=trill o=note:27 c=#ffff00
 70 trills
 //! spacer=1
-//! c=long i=harmonics o=note:0 c=#ffff80
+//! c=long i=harmonics o=note:28 c=#ffff80
 10 harmonics
 //! spacer=1
 //! c=short i=sfz o=note:29,97 c=#008000
