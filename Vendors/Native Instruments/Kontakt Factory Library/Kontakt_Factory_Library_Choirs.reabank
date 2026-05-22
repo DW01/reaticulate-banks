@@ -1,0 +1,35 @@
+//! g="Native Instruments/Kontakt Factory Library/Choirs" n="Sopranos"
+//! id=100a0bd2-aa6c-4b86-b486-38014a808d5a
+Bank * * Sopranos
+//! c=long i=note-whole o=note:24
+1 Aah
+//! c=long i=note-whole o=note:26
+2 Eeh
+//! c=long i=note-whole o=note:28
+5 Iih
+//! c=long i=note-whole o=note:29
+8 Ooh
+//! c=long i=note-whole o=note:31
+9 Uuh
+//! c=long i=note-whole o=note:33
+16 Mmm
+
+//! g="Native Instruments/Kontakt Factory Library/Choirs" n="Altos"
+//! clone="Native Instruments/Kontakt Factory Librarty/Choirs/Sopranos"
+//! id=db70bf08-573c-4437-a6f5-b96249c34d95
+Bank * * Altos
+
+//! g="Native Instruments/Kontakt Factory Library/Choirs" n="Tenors"
+//! clone="Native Instruments/Kontakt Factory Librarty/Choirs/Sopranos"
+//! id=82003ef9-8a0c-42a9-938c-580614249370
+Bank * * Tenors
+
+//! g="Native Instruments/Kontakt Factory Library/Choirs" n="Basses"
+//! clone="Native Instruments/Kontakt Factory Librarty/Choirs/Sopranos"
+//! id=9238baba-8d54-4572-ad26-14cc78ecb1e1
+Bank * * Basses
+
+//! g="Native Instruments/Kontakt Factory Library/Choirs" n="Full Choir"
+//! clone="Native Instruments/Kontakt Factory Librarty/Choirs/Sopranos"
+//! id=3e636133-9128-45bb-90a5-662e2ad026d9
+Bank * * Full Choir
